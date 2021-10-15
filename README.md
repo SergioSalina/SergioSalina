@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergioSalina
+- 👋 Hi, I’m @SergioSalinas
 - 👀 I’m interested in data visualization
 - 🌱 I’m currently learning about Rstudio
 - 💞️ I’m looking to collaborate on ...
